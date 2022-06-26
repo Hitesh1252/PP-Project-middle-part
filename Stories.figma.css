@@ -1,0 +1,259 @@
+#Headings1{
+    position: absolute;
+width: 200px;
+height: 30px;
+left: 624px;
+top: 2163px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 149.8%;
+/* identical to box height, or 30px */
+
+text-align: center;
+
+color: #444BAB;
+}
+
+#Headings2{
+    position: absolute;
+width: 584px;
+height: 54px;
+left: 436px;
+top: 2211px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 149.8%;
+/* identical to box height, or 54px */
+
+text-align: center;
+
+color: #4F516B;
+}
+
+#Left-Vector{
+    position: absolute;
+left: 108px;
+right: 8.33%;
+top: 2406.5px;
+bottom: -37.5%;
+
+/* border: 2px solid #C4C4C4; */
+
+}
+#studend-Profile-Pic{
+    position: absolute;
+width: 168px;
+height: 169px;
+left: 241px;
+top: 2365px;
+
+
+border-radius: 94.5px;
+}
+
+#comment-Image{
+    position: absolute;
+width: 52px;
+height: 81px;
+left: 457px;
+top: 2336.5px;
+
+font-family: 'Plantagenet Cherokee';
+font-style: normal;
+font-weight: 400;
+font-size: 151px;
+line-height: 149.8%;
+
+
+
+color: rgba(132, 141, 199, 0.44);
+}
+
+#p-comment{
+    position: absolute;
+width: 683px;
+height: 55px;
+left: 536px;
+top: 2365px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 149.8%;
+/* or 27px */
+
+
+color: #000000;
+}
+
+#Right-Vector{
+    position: absolute;
+left: 1295.5px;
+right: 33.33px;
+top: 2406.5px;
+bottom: 20.83%;
+
+/* border: 2px solid #C4C4C4; */
+}
+#Ashley{
+    position: absolute;
+width: 87px;
+height: 30px;
+left: 536px;
+top: 2462px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 149.8%;
+/* identical to box height, or 30px */
+
+text-align: center;
+
+color: #000000;
+}
+
+#Linkedin-img{
+position: absolute;
+width: 24px;
+height: 24px;
+left: 632px;
+top: 2465px;
+}
+
+#p-About{
+position: absolute;
+width: 265px;
+height: 27px;
+left: 536px;
+top: 2497px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 149.8%;
+/* identical to box height, or 27px */
+
+text-align: center;
+
+color: #000000;
+}
+#Ellipse1{
+    position: absolute;
+width: 16px;
+height: 16px;
+left: 684px;
+top: 2585px;
+
+background: #C4C4C4;
+}
+
+#Ellipse2{
+    position: absolute;
+width: 16px;
+height: 16px;
+left: 721px;
+top: 2585px;
+
+background: #3E8EBC;
+}
+
+#Ellipse3{
+    position: absolute;
+width: 16px;
+height: 16px;
+left: 758px;
+top: 2585px;
+
+background: #C4C4C4;
+}
+
+#Button1{
+    position: absolute;
+width: 182px;
+height: 36px;
+left: 638px;
+top: 2646px;
+
+background: #444BAB;
+border-radius: 6px;
+color: #FFFFFF;
+cursor: pointer;
+}
+
+#Sub-Headings1{
+    position: absolute;
+width: 509px;
+height: 45px;
+left: 487px;
+top: 2802px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 149.8%;
+/* identical to box height, or 45px */
+
+text-align: center;
+
+color: #4F516B;
+}
+
+#Sub-Headings2{
+    position: absolute;
+width: 328px;
+height: 30px;
+left: 564px;
+top: 2861px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 149.8%;
+/* identical to box height, or 30px */
+
+text-align: center;
+
+color: #4359AF;
+}
+
+#Enter-E-mail{
+    box-sizing: border-box;
+
+position: absolute;
+width: 609px;
+height: 59px;
+left: 423px;
+top: 2914px;
+
+background: #FAFAFB;
+border: 1px solid #EBECFF;
+border-radius: 6px;
+color: #AFACAC;
+padding: 15px;
+
+}
+
+#Button2{
+    position: absolute;
+width: 248px;
+height: 49px;
+left: 774px;
+top: 2919px;
+
+background: linear-gradient(93.44deg, #444BAB -6.8%, #3CA5C2 186.94%);
+border-radius: 6px;
+color: #FFFFFF;
+cursor: pointer;
+}
